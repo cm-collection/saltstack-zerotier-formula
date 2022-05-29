@@ -1,0 +1,2 @@
+include:
+  - {{ tpldot }}.install
